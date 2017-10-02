@@ -10,5 +10,6 @@ The instructions to run the program are as follows :
    6. To try other coordinates do the previous command but replace (1,3) with any other coordinates you want eg for coordinates (10,10) :
         python -c 'from no1 import closestEvents; closestEvents(10,10)'
 
-Please feel free to e-mail any questions to cmm9@williams.edu 
-By Cliff Makanda, Williams College 18', Computer Science
+Please feel free to e-mail any questions to cmm9@williams.edu .
+
+Cliff Makanda, Williams College 18', Computer Science
