@@ -1,4 +1,4 @@
-# INSTRUCTIONS TO RUN PROGRAM FILE 'no1.py'  :
+# Instructions to run program file 'no1.py'  :
 
 
 The instructions to run the program are as follows :
